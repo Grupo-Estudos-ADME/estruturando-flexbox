@@ -1,0 +1,70 @@
+/* Estilos para o caixa da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para a classe caixa */
+.caixa {
+ 
+    background-color: #FFF;
+
+}
+
+/* Estilos para a classe caixa-titulos */
+.caixa-titulos {
+    /* Adicione estilos específicos para a classe caixa-titulos aqui */
+    
+    background-color: #C5C5C5;
+}
+
+/* Estilos para os títulos dentro da classe caixa-titulos */
+.caixa-titulos h1 {
+}
+
+/* Estilos para a classe caixa-base */
+.caixa-base {
+ 
+}
+
+/* Estilos para a classe caixa-base-estudos */
+.caixa-base-estudos {
+    /* Adicione estilos específicos para a classe caixa-base-estudos aqui */
+ 
+}
+
+.caixa-base-estudos-livro {
+ 
+    background-color: #FFF;
+}
+
+/* Estilos para os títulos dentro da classe caixa-base-estudos-titulos */
+.caixa-base-estudos-livro-titulos {
+    /* Adicione estilos específicos para a classe caixa-base-estudos-livro-titulos aqui */
+    
+    background-color: #c6c6c6;
+}
+
+/* Estilos para os títulos dentro da classe caixa-base-estudos-livro-titulos */
+.caixa-base-estudos-livro-titulos h3 {
+    
+    background-color: #FFF;
+}
+
+.caixa-base-estudos-livro-titulos span {
+
+    background-color: #FFF;
+}
+
+/* Estilos para os textos dentro da classe caixa-base-estudos-livro-textos */
+.caixa-base-estudos-livro-textos {
+    /* Adicione estilos específicos para a classe caixa-base-estudos-livro-textos aqui */
+}
+
+/* Estilos para os textos dentro da classe caixa-base-estudos-livro-textos */
+.caixa-base-estudos-livro-textos p {
+    background-color: #c6c6c6;
+}
+
+ 
