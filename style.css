@@ -8,7 +8,6 @@ body {
 /* Estilos para a classe caixa */
 .caixa {
  
-    background-color: #FFF;
 
 }
 
@@ -16,7 +15,6 @@ body {
 .caixa-titulos {
     /* Adicione estilos específicos para a classe caixa-titulos aqui */
     
-    background-color: #C5C5C5;
 }
 
 /* Estilos para os títulos dentro da classe caixa-titulos */
@@ -36,25 +34,21 @@ body {
 
 .caixa-base-estudos-livro {
  
-    background-color: #FFF;
 }
 
 /* Estilos para os títulos dentro da classe caixa-base-estudos-titulos */
 .caixa-base-estudos-livro-titulos {
     /* Adicione estilos específicos para a classe caixa-base-estudos-livro-titulos aqui */
     
-    background-color: #c6c6c6;
 }
 
 /* Estilos para os títulos dentro da classe caixa-base-estudos-livro-titulos */
 .caixa-base-estudos-livro-titulos h3 {
     
-    background-color: #FFF;
 }
 
 .caixa-base-estudos-livro-titulos span {
 
-    background-color: #FFF;
 }
 
 /* Estilos para os textos dentro da classe caixa-base-estudos-livro-textos */
@@ -64,7 +58,6 @@ body {
 
 /* Estilos para os textos dentro da classe caixa-base-estudos-livro-textos */
 .caixa-base-estudos-livro-textos p {
-    background-color: #c6c6c6;
 }
 
  

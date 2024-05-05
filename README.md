@@ -10,14 +10,7 @@ Abaixo está uma lista com o passo a passo para realizar o objetivo.
 
 TODO: Layout Flexbox para Grupo de Estudos ADME
 
-1. Estrutura HTML:
-
-   - [x] Definir a estrutura básica do documento HTML.
-   - [x] Criar divs para organizar os diferentes elementos da página.
-
-2. Estilo CSS:
-
-   - [x] Criar um arquivo de estilo externo (style.css) e vinculá-lo ao documento HTML.
+1. Estilo CSS:
    - [ ] Definir um estilo básico para o corpo da página, como cor de fundo e fonte.
    - [ ] Estilizar os elementos de cabeçalho (h1) e títulos de seção (h3).
    - [ ] Estilizar os elementos de parágrafo (p) e spans conforme necessário.
@@ -26,11 +19,9 @@ TODO: Layout Flexbox para Grupo de Estudos ADME
 
    - [ ] Utilizar a propriedade "display: flex;" para ativar o layout flexível em cada div relevante.
    - [ ] Experimentar e aplicar diferentes valores para as propriedades "justify-content" e "align-items" para organizar os elementos dentro das divs de forma adequada.
-   - [ ] Verificar a aparência e o posicionamento dos elementos em diferentes tamanhos de tela (responsividade).
+   - [ ] Verificar a aparência e o posicionamento dos elementos na tela.
 
-4. Detalhes adicionais:
-   - [ ] Adicionar imagens, ícones ou outros elementos visuais, se desejado.
-
+ 
 dicas de css que podem ser utilizados:
 ```
 .caixa_1{
